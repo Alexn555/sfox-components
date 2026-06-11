@@ -1,8 +1,8 @@
-### SFox Engine v 3.52
+### SFoxComponents v 3.38
 
-![Alt text](https://alexn555-racing.com/projects/logo/sfoxinsurance.png "Screen")
+![Alt text](https://alexn555-racing.com/projects/logo/sfoxcomponents.png "Screen")
 
-SFox Engine (Non-existing in real brand) it's a Javascript Engine for <br />
+SFoxComponents (Non-existing in real brand) it's a Javascript Engine for <br />
 Economical, News Portal. <br />
 Main plot to show good features of WebComponents and how can those be used <br />
 in real website, administration systems.
@@ -10,6 +10,9 @@ in real website, administration systems.
 Libraries: pure Javascript (ES8), CSS3, CSS3 variables, HTML5, WebComponents
 
 ## Changelog
+v 3.38
+  Changed name to SFox Components
+
 v 3.32
   Added statuses optimization
 
@@ -37,9 +40,7 @@ v 3.16
 
 ## Demo 
 
-![Alt text](https://alexn555-racing.com/projects/sfoxinsurance/screen.jpg "Screen")
-
-Demo link: [link](https://alexn555-racing.com/projects/sfoxinsurance)
+Demo link: [link](https://alexn555-racing.com/projects/sfoxcomponents)
 
 ## Projects, that are using this Engine 
 Penny-xp.com <br />

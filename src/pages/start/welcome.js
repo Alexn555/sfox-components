@@ -31,7 +31,7 @@ class WelcomePage extends HTMLElement {
                 <h3>Welcome Page</h3>
                 ${showLogo()}
                 <p>
-                    Welcome to <b>SFox Engine</b> - system to create casual and ecomony website. <br />
+                    Welcome to <b>SFoxComponents</b> - system to create casual and ecomony website. <br />
                     This Demo demonstrates most powerful Features of this engine.
                 </p>
                 <p>

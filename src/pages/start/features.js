@@ -27,7 +27,7 @@ class FeaturesPage extends HTMLElement {
             <div class="features">
                 <h3>Features</h3>
                 <p>
-                    <b>SFox Engine</b> - system's main features
+                    <b>SFoxComponents</b> - system's main features
                 </p>
                 <p>
                     <ul>

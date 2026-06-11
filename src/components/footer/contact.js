@@ -49,41 +49,41 @@ class FooterContact extends HTMLElement {
                 <div class="title">Contact</div>
                 <div class="phone">2 445 500</div>
                 <div class="email">
-                    <a href="mailto: info@sfoxinsurance.com">info@sfoxinsurance.com</a>
+                    <a href="mailto: info@sfoxcomponents.com">info@sfoxcomponents.com</a>
                 </div>
                 <div class="address">
-                    SFoxInsurance
+                    SFoxComponents
                     SomeRoad 32, Tallinn,
                     INC number: INC2500XC
                     Reg. number: 10062540000
                 </div>
                 <div class="social">
                     <footer-social-item 
-                        url="https://facebook.com/sfoxinsurance" 
+                        url="https://facebook.com/sfoxcomponents" 
                         image-name="facebook"
                         image-alt="facebook"
                     >
                     </footer-social-item>
                     <footer-social-item 
-                        url="https://youtube.com/sfoxinsurance" 
+                        url="https://youtube.com/sfoxcomponents" 
                         image-name="youtube"
                         image-alt="youtube"
                     >
                     </footer-social-item>
                     <footer-social-item 
-                        url="https://twitter.com/sfoxinsurance" 
+                        url="https://twitter.com/sfoxcomponents" 
                         image-name="twitter"
                         image-alt="twitter"
                     >
                     </footer-social-item>
                     <footer-social-item 
-                        url="https://instagram.com/sfoxinsurance" 
+                        url="https://instagram.com/sfoxcomponents" 
                         image-name="instagram"
                         image-alt="instagram"
                     >
                     </footer-social-item>
                     <footer-social-item 
-                        url="https://skype.com/sfoxinsurance" 
+                        url="https://skype.com/sfoxcomponents" 
                         image-name="skype"
                         image-alt="skype"
                     >

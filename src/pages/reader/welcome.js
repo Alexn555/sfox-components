@@ -32,7 +32,7 @@ class ReaderWelcomePage extends HTMLElement {
                 <h3>Welcome Page</h3>
                 ${showLogo()}
                 <p>
-                    Welcome to <b>SFox Engine's Reader page</b> - Another section. <br />
+                    Welcome to <b>SFoxComponents Reader page</b> - Another section. <br />
                     This page demonstrates some features
                 </p>
                 <p>

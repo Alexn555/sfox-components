@@ -32,7 +32,7 @@ class SafeWelcomePage extends HTMLElement {
                 <h3>Welcome Page</h3>
                 ${showLogo()}
                 <p>
-                    Welcome to <b>SFox Engine's Safe page</b> - Safe section. <br />
+                    Welcome to <b>SFoxComponents Safe page</b> - Safe section. <br />
                     This page demonstrates some features
                 </p>
                 <p>

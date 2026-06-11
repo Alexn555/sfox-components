@@ -6,9 +6,9 @@ export let HeaderSettings = {
 
 export let SEO = {
   enabled: true,
-  application: "SFoxInsurance engine",
+  application: "SFoxComponents",
   author: "W3C",
-  description: "SfoxEngine - engine to show good features webComponents.",
+  description: "SFoxComponents - engine to show good features webComponents.",
 };
 
 export let NoticeDisclaimerSets = {
